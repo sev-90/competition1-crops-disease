@@ -1,6 +1,6 @@
 # competition1-crops-disease
 
-# crops disease type prediction
+# crops disease type prediction with Convolutional neural network (CNN)
 Many African crops are suffering from the wheat rust as a devastating plant disease. This issue can significantly affect the life of farmers and the food security in the continent. The goal of this project is to train a machine learning algorithm to classify the crops to healthy, stem rust, and leaf rust. Relying on the state-of-the-art fastai learning library, convolutional neural network is trained to achieve the score of 0.3758 loss. 
 
 ## Task
